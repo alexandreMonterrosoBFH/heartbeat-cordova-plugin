@@ -1,0 +1,17 @@
+
+ {
+   "name": "heartbeat-cordova-plugin",
+   "version": "0.2.2",
+   "description": "Cordova Heart Beat Monitor",
+   "cordova": {
+     "id": "heartbeat-cordova-plugin",
+     "platforms": [
+       "android",
+       "ios"
+     ]
+   },
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/alexandreMonterrosoBFH/heartbeat-cordova-plugin"
+   }
+ }

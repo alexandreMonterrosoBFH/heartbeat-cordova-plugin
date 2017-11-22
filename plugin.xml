@@ -9,7 +9,7 @@
   <repo>https://github.com/Litekey/heartbeat-cordova-plugin</repo>
 
   <engines>
-    <engine name="cordova" version=">=3.4.0"/>
+    <engine name="cordova" version=">=7.0.0"/>
   </engines>
 
   <asset src="www/heartbeat.js" target="js/heartbeat.js"/>
